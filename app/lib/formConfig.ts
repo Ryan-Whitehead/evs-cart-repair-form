@@ -66,12 +66,7 @@ export const locationOptions: { id: string; label: string; email: string }[] = [
   },
   {
     id: "location-3",
-    label: "William Press this",
-    email: "William.Marulanda@crothall.com",
-  },
-  {
-    id: "location-4",
-    label: "Test",
-    email: "Ryan.whitehead@crothall.com",
+    label: "Test for Marissa",
+    email: "Marissa.janneire@crothall.com",
   },
 ];
