@@ -64,9 +64,4 @@ export const locationOptions: { id: string; label: string; email: string }[] = [
     label: "St.Francis Hospital",
     email: "Valeria.Fequirre@crothall.com",
   },
-  {
-    id: "location-3",
-    label: "Test for Marissa",
-    email: "Marissa.janneire@crothall.com",
-  },
 ];
